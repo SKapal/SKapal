@@ -7,7 +7,7 @@ I'm an iOS developer passionate about building beautiful, performant, and user-f
 - 🎨 Design and develop iOS apps using Swift & SwiftUI
 - ⚡ Focus on clean, maintainable code and seamless user experiences
 - 🔁 Integrate modern concurrency, Combine, and reactive patterns
-- 🧪 Write robust tests and build scalable app architectures (MVVM, MVVM+C)
+- 🧪 Write robust tests and build scalable app architectures (MVVM, MVVM+C, MVP, MVC)
 
 ## 🚀 Featured Project
 
