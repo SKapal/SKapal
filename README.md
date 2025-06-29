@@ -20,6 +20,6 @@ A timeline-focused iOS app that lets you log daily activities in natural languag
 
 ## 💬 Let's connect!
 
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/sahilkapal/)) 
+- 💼 [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/sahilkapal/)
 
 Thanks for visiting my profile! ⭐️
