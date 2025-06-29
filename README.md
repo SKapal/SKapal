@@ -12,7 +12,7 @@ I'm an iOS developer passionate about building beautiful, performant, and user-f
 ## 🚀 Featured Project
 
 ### [Leisurely](https://leisurely-backend.vercel.app/)
-A timeline-focused iOS app that lets you log daily activities in natural language and visualize your habits with interactive heatmaps and timelines.  
+A timeline-focused iOS app that lets you log daily activities in natural language and visualize your habits with heatmaps and AI-powered weekly reflections.
 
 - Emphasizes personal reflection and habit tracking
 - Built with SwiftUI & Core Data
