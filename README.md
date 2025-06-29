@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Sahil!
 
-<!--
-**SKapal/SKapal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an iOS developer passionate about building beautiful, performant, and user-focused mobile apps. With over 5 years of experience in Swift, SwiftUI, and modern Apple frameworks, I love turning complex ideas into elegant, intuitive experiences.
 
-Here are some ideas to get you started:
+## 💼 What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎨 Design and develop iOS apps using Swift & SwiftUI
+- ⚡ Focus on clean, maintainable code and seamless user experiences
+- 🔁 Integrate modern concurrency, Combine, and reactive patterns
+- 🧪 Write robust tests and build scalable app architectures (MVVM, MVVM+C)
+
+## 🚀 Featured Project
+
+### [Leisurely](https://leisurely-backend.vercel.app/)
+A timeline-focused iOS app that lets you log daily activities in natural language and visualize your habits with interactive heatmaps and timelines.  
+
+- Emphasizes personal reflection and habit tracking
+- Built with SwiftUI & Core Data
+- Backend built with Node.js, express, MongoDB & Vercel
+
+## 💬 Let's connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/) (Add your link here)
+
+Thanks for visiting my profile! ⭐️
